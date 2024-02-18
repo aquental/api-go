@@ -22,6 +22,8 @@ var albums = []album{
     {ID: "4", Title: "The Dark Side of the Moon", Artist: "Pink Floyd", Price: 19.99},
     {ID: "5", Title: "Venus", Artist: "Shocking Blue", Price: 22.99},
     {ID: "6", Title: "Venus", Artist: "Bananarama", Price: 20.99},
+    {ID: "7", Title: "Beggin", Artist: "Shocking Blue", Price: 23.99},
+    {ID: "8", Title: "Beggin", Artist: "Maneskin", Price: 25.99},
 }
 
 func main() {
